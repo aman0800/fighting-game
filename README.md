@@ -1,3 +1,3 @@
 # fighting-game
- A fighting game based on JavaScript
- You can play this on streetfighter.amandhiman.codes
+ A fighting game based on JavaScript<br>
+ You can play this on www.streetfighter.amandhiman.codes
